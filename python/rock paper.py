@@ -10,7 +10,7 @@ elif
 ..
 else
 """
-# IF_ELIF
+# HERE I USE IF , ELIF AND ELSE--->>
 import random
 
 options = ["rock", "paper", "scissors"]
