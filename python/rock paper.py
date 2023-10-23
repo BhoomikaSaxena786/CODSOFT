@@ -1,16 +1,3 @@
-# ROCK PAPER SCISSORS GAME -->
-
-"""
-Computer choice = rock/paper/scissors
-User choice = input()
-
-if 
-elif
-..
-..
-else
-"""
-# HERE I USE IF , ELIF AND ELSE--->>
 import random
 
 options = ["rock", "paper", "scissors"]
